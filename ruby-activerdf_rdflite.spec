@@ -7,7 +7,6 @@ Group:		Development/Languages
 Source0:	http://gems.rubyforge.org/gems/activerdf_rdflite-%{version}.gem
 # Source0-md5:	3c5efda7f5de7c8e7e803e60cb3c1988
 URL:		http://activerdf.rubyforge.org
-BuildRequires:	rake
 BuildRequires:	rpmbuild(macros) >= 1.277
 BuildRequires:	setup.rb = 3.4.1
 Requires:	rdflite-bindings-ruby
